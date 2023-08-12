@@ -30,4 +30,24 @@
 
 ## 1.2 Draw the Border
 
-1. 
+1. Draw the outer rectangle, we are going to draw a 277x190 mm rectangle, as an A4 page is 297x210 mm 
+
+go to cammand box , type the followign commands lines after each line type enter 
+
+```
+rec
+0, 0 
+277, 190
+```
+for auto-zoom , and rectangle to be visible, Enter in the same command-box
+```
+za
+```
+Press [**Esc**] to end the task
+
+![Rectangle Output](./images/5_draw_rec.png)
+
+
+2. Draw Boarder parallel lines
+
+- 
