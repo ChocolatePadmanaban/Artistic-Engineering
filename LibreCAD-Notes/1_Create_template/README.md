@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 1 Create A Template 
 
 ## 1.1 Preparations
